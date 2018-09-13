@@ -45,7 +45,7 @@ namespace TodoApi.Controllers
             var claims = new[]
             {
                 new Claim("name", username),
-                new Claim("emailaddress", "testpersonXX@test.nl"),
+                new Claim("emailaddress", "testpersonTRALALA@test.nl"),
                 new Claim("role", "user"),
                 new Claim("fullname", "Peter van Dijk"),
                 new Claim("customers", "4,89,100" ),
