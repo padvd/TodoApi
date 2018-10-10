@@ -8794,7 +8794,7 @@
       ]
     },
     "System.Net.Http/4.3.0": {
-      "sha512": "sYg+FtILtRQuYWSIAuNOELwVuVsxVyJGWQyOnlAzhV4xvhyFnON1bAzYYC+jjRW8JREM45R0R5Dgi8MTC5sEwA==",
+      "sha512": "owGWzaZmuCK3YlLNmayE1d/lqh4rydjjxhLPOTJqgG6ZpbG4/QmW1dKHwm0u7q0neobfpQVD1Qt1PUxMrrFe6g==",
       "type": "package",
       "path": "system.net.http/4.3.0",
       "files": [
@@ -10402,7 +10402,7 @@
       ]
     },
     "System.Security.Cryptography.X509Certificates/4.3.0": {
-      "sha512": "t2Tmu6Y2NtJ2um0RtcuhP7ZdNNxXEgUm2JeoA/0NvlMjAhKCnM1NX07TDl3244mVp3QU6LPEhT3HTtH1uF7IYw==",
+      "sha512": "alYOA5mz2LtUlv+0CKKbo72TXGVsPJe1j70l5SAMRNQKODEq1PT8w9naA0NBB1dTVIOkP57FFbOGZA3gxjtSUw==",
       "type": "package",
       "path": "system.security.cryptography.x509certificates/4.3.0",
       "files": [
@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "D:\\Projects\\Messier.WebApplications.RemsAuthorize\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "D:\\Projects\\TodoApi\\TodoApi.csproj",
+      "projectPath": "D:\\Projects\\Messier.WebApplications.RemsAuthorize\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\petervd\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\TodoApi\\obj\\",
+      "outputPath": "D:\\Projects\\Messier.WebApplications.RemsAuthorize\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -12,3 +12,17 @@ D:\Projects\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfo.cs
 D:\Projects\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
 D:\Projects\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.dll
 D:\Projects\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.pdb
+D:\Projects\Messier.WebApplications.RemsAuthorize\bin\Debug\netcoreapp2.1\TodoApi.deps.json
+D:\Projects\Messier.WebApplications.RemsAuthorize\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.json
+D:\Projects\Messier.WebApplications.RemsAuthorize\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.dev.json
+D:\Projects\Messier.WebApplications.RemsAuthorize\bin\Debug\netcoreapp2.1\TodoApi.dll
+D:\Projects\Messier.WebApplications.RemsAuthorize\bin\Debug\netcoreapp2.1\TodoApi.pdb
+D:\Projects\Messier.WebApplications.RemsAuthorize\obj\Debug\netcoreapp2.1\TodoApi.csprojAssemblyReference.cache
+D:\Projects\Messier.WebApplications.RemsAuthorize\obj\Debug\netcoreapp2.1\TodoApi.csproj.CoreCompileInputs.cache
+D:\Projects\Messier.WebApplications.RemsAuthorize\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cache
+D:\Projects\Messier.WebApplications.RemsAuthorize\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cs
+D:\Projects\Messier.WebApplications.RemsAuthorize\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfoInputs.cache
+D:\Projects\Messier.WebApplications.RemsAuthorize\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfo.cs
+D:\Projects\Messier.WebApplications.RemsAuthorize\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
+D:\Projects\Messier.WebApplications.RemsAuthorize\obj\Debug\netcoreapp2.1\TodoApi.dll
+D:\Projects\Messier.WebApplications.RemsAuthorize\obj\Debug\netcoreapp2.1\TodoApi.pdb
